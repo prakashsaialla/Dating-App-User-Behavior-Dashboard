@@ -1,148 +1,115 @@
-📊 Dating App User Behavior Dashboard (Power BI)
+---
 
+# 📊 **Dating App User Behavior Dashboard — Power BI Project**
 
-This project presents a complete Power BI analytics dashboard built using a simulated dating app dataset.
-It explores user demographics, swiping behavior, relationship preferences, engagement levels, and interests to uncover trends in user activity.
+A fully interactive **Power BI dashboard** analyzing user demographics, swiping behavior, preferences, and engagement patterns in a dating app environment.
+This project demonstrates strong skills in **data visualization, data modeling, DAX, and storytelling with data**.
 
+---
 
-📁 Project Files
+## 📁 **Project Structure**
 
-📄 Power BI File: Dating App Dashboard.pbix
+```
+📂 Dating-App-Dashboard
+│── 📊 Dating App Dashboard.pbix
+│── 📄 dating_app_dataset.csv
+│── 📁 images/
+│     └── dashboard.png
+│── 📄 README.md
+```
 
-📊 Dataset: dating_app_dataset.csv
+---
 
+## 🚀 **Dashboard Highlights**
 
+### 🔹 **1. Demographic Analysis**
 
+* Age distribution (with grouped bins)
+* Gender split (50.2% Female, 49.8% Male)
+* Height distribution
+* Children preference distribution
+* Education level breakdown
+* Occupation treemap
 
+---
 
-🚀 Dashboard Features
-This dashboard provides a deep look at user behavior, including:
-👤 User Demographics
+### 🔹 **2. Relationship & Interest Insights**
 
+* “Looking For” categories:
 
-Age distribution (with bins)
+  * Casual Dating
+  * Long-term Relationship
+  * Friendship
+  * Marriage
+* Word cloud showing top user interests:
 
+  * Travel, Music, Sports, Reading, Hiking, etc.
 
-Gender split
+---
 
+### 🔹 **3. Swiping & Engagement Patterns**
 
-Height distribution
+* Swipe activity visualized by age
+* Engagement levels through swiping history
+* Trend patterns showing peak activity around age 26
 
+---
 
-Children preference (Yes/No/Maybe)
+## 📈 **Key Insights from the Dashboard**
 
+✔ **Most users are between 24–30**, indicating a young active user base
+✔ **Long-term relationships** are the most preferred category
+✔ **Swipe activity peaks around age 26**
+✔ **Balanced gender ratio** ensures fair behavioral comparison
+✔ Interests are dominated by **Travel, Music, Reading, Sports**
+✔ Majority of users hold a **Bachelor’s Degree**
 
-Education level
+---
 
+## 🛠️ **Tools & Skills Used**
 
-Occupation breakdown using a treemap
+| Category               | Tools                                      |
+| ---------------------- | ------------------------------------------ |
+| **Data Visualization** | Power BI Desktop                           |
+| **Data Cleaning**      | Power Query                                |
+| **Data Modeling**      | Star schema, relationships                 |
+| **DAX**                | Calculations & grouping                    |
+| **Design**             | Color themes, layout optimization, slicers |
 
+---
 
-💗 Relationship Preferences
+## 🖼️ **Dashboard Preview**
 
+Add this once you upload the image:
 
-What users are “Looking For”
-(Casual Dating, Long-term Relationship, Friendship, Marriage)
-
-
-Word cloud showing most common interests
-
-
-📈 Swiping & Engagement Analysis
-
-
-Swiping activity by age
-
-
-Frequency of usage
-
-
-Trend insights on user engagement patterns
-
-
-🎨 Visual Design
-
-
-Consistent color palette
-
-
-Intuitive chart layout
-
-
-Interactive filters for Age, Gender, Education, and more
-
-
-
-🔧 Tech Stack
-
-
-Power BI Desktop
-
-
-Power Query (data cleaning & transformation)
-
-
-DAX Measures (for calculations)
-
-
-Data Modeling
-
-
-Custom Visuals (Word Cloud, Treemap)
-
-
-
-📊 Key Insights
-Some findings from the analysis:
-
-
-Most users fall between ages 24–30, showing a young and active user base.
-
-
-Long-term relationships are the most sought-after preference.
-
-
-Swipe activity peaks around age 26, suggesting higher engagement in mid-20s.
-
-
-Gender distribution is nearly 50–50, making comparisons balanced.
-
-
-The most common interests include Travel, Music, Sports, and Reading.
-
-
-Education levels show a majority of Bachelor’s Degree holders.
-
-
-
-🖼️ Dashboard Preview
-Add this after inserting a screenshot into /images:
+```
 ![Dashboard Screenshot](images/dashboard.png)
+```
 
+---
 
-📚 How to Use
+## 📚 **How to View the Dashboard**
 
+1. Download the `.pbix` file
+2. Open it in **Power BI Desktop**
+3. Use the slicers (Age, Gender, Education, Looking For)
+4. Explore interactive charts and insights
 
-Download the .pbix file
+---
 
+## 🤝 **Contact**
 
-Open in Power BI Desktop
+**Navya Alla**
+🔗 LinkedIn: *(Add your LinkedIn URL)*
+📧 Email: *(Optional)*
 
+---
 
-Explore the visuals using slicers (Age, Gender, Education, Looking For)
+## ⭐ **If you want, I can also help with:**
 
+✨ Writing your LinkedIn post
+✨ Improving your resume project section
+✨ Creating a GitHub repository description
+✨ More visuals or additional insights
 
-Interact with charts to reveal user behavior insights
-
-
-
-📬 Contact
-If you'd like to connect or collaborate:
-Navya Alla
-🔗 LinkedIn: [Add your LinkedIn URL]
-
-🎉 If you want, I can also:
-✔ Create your LinkedIn post
-✔ Suggest GitHub repo name & folder structure
-✔ Convert this into a resume project description
 Just tell me!
