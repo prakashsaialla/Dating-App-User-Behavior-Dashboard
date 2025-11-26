@@ -54,10 +54,15 @@ This project demonstrates strong skills in **data visualization, data modeling, 
 ## 📈 **Key Insights from the Dashboard**
 
 ✔ **Most users are between 24–30**, indicating a young active user base
+
 ✔ **Long-term relationships** are the most preferred category
+
 ✔ **Swipe activity peaks around age 26**
+
 ✔ **Balanced gender ratio** ensures fair behavioral comparison
+
 ✔ Interests are dominated by **Travel, Music, Reading, Sports**
+
 ✔ Majority of users hold a **Bachelor’s Degree**
 
 
