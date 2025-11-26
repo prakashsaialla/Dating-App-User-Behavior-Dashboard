@@ -1,11 +1,9 @@
----
-
 # 📊 **Dating App User Behavior Dashboard — Power BI Project**
 
 A fully interactive **Power BI dashboard** analyzing user demographics, swiping behavior, preferences, and engagement patterns in a dating app environment.
 This project demonstrates strong skills in **data visualization, data modeling, DAX, and storytelling with data**.
 
----
+
 
 ## 📁 **Project Structure**
 
@@ -13,12 +11,10 @@ This project demonstrates strong skills in **data visualization, data modeling, 
 📂 Dating-App-Dashboard
 │── 📊 Dating App Dashboard.pbix
 │── 📄 dating_app_dataset.csv
-│── 📁 images/
-│     └── dashboard.png
 │── 📄 README.md
 ```
 
----
+
 
 ## 🚀 **Dashboard Highlights**
 
@@ -31,7 +27,7 @@ This project demonstrates strong skills in **data visualization, data modeling, 
 * Education level breakdown
 * Occupation treemap
 
----
+
 
 ### 🔹 **2. Relationship & Interest Insights**
 
@@ -45,7 +41,7 @@ This project demonstrates strong skills in **data visualization, data modeling, 
 
   * Travel, Music, Sports, Reading, Hiking, etc.
 
----
+
 
 ### 🔹 **3. Swiping & Engagement Patterns**
 
@@ -53,7 +49,7 @@ This project demonstrates strong skills in **data visualization, data modeling, 
 * Engagement levels through swiping history
 * Trend patterns showing peak activity around age 26
 
----
+
 
 ## 📈 **Key Insights from the Dashboard**
 
@@ -64,7 +60,7 @@ This project demonstrates strong skills in **data visualization, data modeling, 
 ✔ Interests are dominated by **Travel, Music, Reading, Sports**
 ✔ Majority of users hold a **Bachelor’s Degree**
 
----
+
 
 ## 🛠️ **Tools & Skills Used**
 
@@ -76,17 +72,8 @@ This project demonstrates strong skills in **data visualization, data modeling, 
 | **DAX**                | Calculations & grouping                    |
 | **Design**             | Color themes, layout optimization, slicers |
 
----
 
-## 🖼️ **Dashboard Preview**
 
-Add this once you upload the image:
-
-```
-![Dashboard Screenshot](images/dashboard.png)
-```
-
----
 
 ## 📚 **How to View the Dashboard**
 
@@ -95,21 +82,3 @@ Add this once you upload the image:
 3. Use the slicers (Age, Gender, Education, Looking For)
 4. Explore interactive charts and insights
 
----
-
-## 🤝 **Contact**
-
-**Navya Alla**
-🔗 LinkedIn: *(Add your LinkedIn URL)*
-📧 Email: *(Optional)*
-
----
-
-## ⭐ **If you want, I can also help with:**
-
-✨ Writing your LinkedIn post
-✨ Improving your resume project section
-✨ Creating a GitHub repository description
-✨ More visuals or additional insights
-
-Just tell me!
