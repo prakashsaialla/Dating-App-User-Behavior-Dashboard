@@ -1,0 +1,501 @@
+User ID,Age,Gender,Height,Interests,Looking For,Children,Education Level,Occupation,Swiping History,Frequency of Usage
+1,30,Male,5.240384818,"['Sports', 'Cooking', 'Hiking', 'Music', 'Movies', 'Reading', 'Travel']",Casual Dating,No,High School,Student,96,Weekly
+2,27,Female,4.93762519,"['Sports', 'Reading']",Friendship,Yes,Master's Degree,Artist,96,Monthly
+3,29,Female,5.806295845,['Sports'],Casual Dating,No,Bachelor's Degree,Social Media Influencer,64,Daily
+4,29,Female,5.101402346,['Reading'],Marriage,No,Ph.D.,Doctor,67,Daily
+5,32,Male,5.986670328,"['Sports', 'Hiking', 'Music', 'Movies', 'Reading']",Long-term Relationship,Yes,Ph.D.,Engineer,93,Monthly
+6,25,Female,5.192045044,"['Sports', 'Cooking', 'Movies', 'Music', 'Travel', 'Reading', 'Hiking']",Marriage,Yes,Master's Degree,Engineer,38,Monthly
+7,27,Female,5.725125741,"['Travel', 'Cooking']",Marriage,No,Master's Degree,Student,77,Monthly
+8,21,Male,5.108276074,"['Cooking', 'Hiking', 'Movies', 'Reading', 'Music', 'Travel']",Marriage,Yes,Bachelor's Degree,Teacher,87,Daily
+9,33,Female,5.364951099,"['Music', 'Reading', 'Sports', 'Cooking', 'Movies']",Friendship,Maybe,High School,Social Media Influencer,6,Monthly
+10,26,Female,6.020815285,"['Sports', 'Reading', 'Music', 'Cooking', 'Movies', 'Hiking']",Long-term Relationship,No,Ph.D.,Teacher,8,Weekly
+11,27,Female,4.9327425,"['Cooking', 'Reading', 'Music']",Friendship,Maybe,Master's Degree,Teacher,19,Weekly
+12,20,Female,5.752873347,"['Cooking', 'Sports']",Friendship,Yes,Ph.D.,Business Owner,19,Monthly
+13,33,Female,5.56313585,"['Music', 'Cooking', 'Sports']",Casual Dating,Yes,Bachelor's Degree,Teacher,12,Weekly
+14,25,Female,5.402888703,"['Travel', 'Movies']",Friendship,Yes,High School,Entrepreneur,80,Monthly
+15,20,Male,5.51137095,['Hiking'],Friendship,No,Bachelor's Degree,Student,81,Monthly
+16,30,Female,5.866473532,['Cooking'],Marriage,Maybe,Bachelor's Degree,Artist,97,Monthly
+17,27,Male,6.011520446,"['Cooking', 'Music', 'Hiking']",Friendship,Yes,Bachelor's Degree,Engineer,12,Weekly
+18,29,Male,5.627683848,"['Movies', 'Sports', 'Travel', 'Music', 'Cooking']",Marriage,No,Master's Degree,Doctor,4,Daily
+19,31,Male,5.171047595,"['Sports', 'Movies']",Long-term Relationship,Yes,Master's Degree,Business Owner,32,Daily
+20,24,Female,5.206369247,"['Sports', 'Cooking', 'Hiking']",Friendship,Yes,Ph.D.,Entrepreneur,13,Daily
+21,31,Male,5.329140529,['Cooking'],Friendship,Maybe,Bachelor's Degree,Engineer,5,Weekly
+22,27,Female,5.430026156,"['Travel', 'Reading', 'Hiking', 'Cooking', 'Sports']",Casual Dating,Maybe,Master's Degree,Doctor,61,Weekly
+23,22,Male,5.390113466,"['Travel', 'Hiking', 'Reading']",Friendship,No,Bachelor's Degree,Artist,55,Daily
+24,31,Female,5.30866811,"['Music', 'Travel']",Casual Dating,Yes,Bachelor's Degree,Social Media Influencer,98,Daily
+25,24,Female,6.02821958,"['Music', 'Travel', 'Cooking', 'Hiking', 'Movies', 'Reading', 'Sports']",Casual Dating,No,Master's Degree,Entrepreneur,72,Monthly
+26,29,Female,5.647510205,"['Sports', 'Reading', 'Hiking']",Friendship,Maybe,High School,Business Owner,98,Monthly
+27,32,Male,5.364351809,"['Reading', 'Cooking']",Casual Dating,Maybe,Master's Degree,Engineer,37,Monthly
+28,20,Female,5.754320099,"['Reading', 'Sports', 'Hiking', 'Travel', 'Movies', 'Music', 'Cooking']",Marriage,Maybe,High School,Doctor,52,Daily
+29,19,Female,5.732664878,"['Cooking', 'Sports', 'Reading']",Long-term Relationship,Yes,Ph.D.,Artist,14,Weekly
+30,32,Male,6.088162166,"['Music', 'Movies', 'Travel']",Casual Dating,Yes,Bachelor's Degree,Entrepreneur,23,Monthly
+31,18,Female,5.335882855,"['Sports', 'Movies', 'Travel', 'Cooking', 'Reading']",Long-term Relationship,Maybe,Ph.D.,Artist,29,Weekly
+32,30,Male,4.906158034,"['Cooking', 'Travel', 'Reading']",Casual Dating,Yes,Ph.D.,Student,28,Weekly
+33,20,Female,5.720755639,"['Sports', 'Movies', 'Cooking', 'Travel', 'Hiking', 'Music', 'Reading']",Friendship,No,Master's Degree,Teacher,74,Monthly
+34,21,Male,5.09809242,"['Music', 'Cooking']",Casual Dating,Yes,Ph.D.,Entrepreneur,81,Weekly
+35,25,Male,5.671438559,"['Reading', 'Sports']",Long-term Relationship,No,Ph.D.,Student,31,Weekly
+36,19,Male,5.40866063,"['Movies', 'Cooking', 'Hiking', 'Reading', 'Sports', 'Travel', 'Music']",Friendship,No,Ph.D.,Business Owner,83,Daily
+37,24,Male,4.915416268,"['Sports', 'Music', 'Reading', 'Hiking', 'Travel', 'Cooking', 'Movies']",Casual Dating,Yes,Master's Degree,Teacher,8,Monthly
+38,26,Female,5.965380153,"['Sports', 'Movies', 'Music']",Long-term Relationship,No,Bachelor's Degree,Entrepreneur,85,Weekly
+39,24,Female,5.678084813,"['Sports', 'Music', 'Reading', 'Hiking']",Casual Dating,Yes,Ph.D.,Entrepreneur,52,Weekly
+40,19,Male,5.920743402,"['Movies', 'Music']",Friendship,Maybe,High School,Social Media Influencer,12,Daily
+41,24,Female,5.238880598,"['Hiking', 'Music', 'Reading', 'Movies', 'Travel']",Casual Dating,Yes,Bachelor's Degree,Social Media Influencer,88,Monthly
+42,35,Male,5.900425428,"['Music', 'Movies', 'Reading']",Marriage,Yes,Bachelor's Degree,Artist,62,Monthly
+43,31,Female,5.227422033,"['Sports', 'Reading', 'Movies', 'Hiking', 'Travel', 'Music', 'Cooking']",Friendship,Yes,High School,Artist,13,Weekly
+44,34,Male,5.959061346,"['Hiking', 'Movies', 'Cooking', 'Reading', 'Sports', 'Travel']",Marriage,No,Master's Degree,Doctor,2,Daily
+45,23,Male,6.000881661,"['Sports', 'Movies', 'Hiking', 'Travel', 'Reading', 'Music', 'Cooking']",Friendship,Yes,High School,Engineer,43,Weekly
+46,20,Female,5.652509216,"['Music', 'Movies', 'Travel']",Long-term Relationship,No,Bachelor's Degree,Teacher,9,Daily
+47,33,Female,5.338095725,"['Sports', 'Hiking', 'Music']",Marriage,Maybe,High School,Student,92,Daily
+48,30,Male,5.280272161,"['Movies', 'Hiking', 'Music', 'Sports', 'Reading', 'Cooking']",Casual Dating,No,High School,Artist,49,Weekly
+49,30,Male,5.397185415,"['Sports', 'Music', 'Movies', 'Cooking']",Casual Dating,No,High School,Student,82,Daily
+50,26,Female,5.955798432,"['Music', 'Cooking', 'Reading', 'Travel', 'Hiking', 'Sports', 'Movies']",Long-term Relationship,Yes,Bachelor's Degree,Doctor,83,Weekly
+51,33,Male,5.370472005,"['Reading', 'Hiking', 'Music', 'Cooking']",Long-term Relationship,Yes,Bachelor's Degree,Entrepreneur,79,Monthly
+52,35,Male,5.59623282,"['Travel', 'Movies']",Long-term Relationship,No,High School,Doctor,26,Monthly
+53,18,Male,6.08974376,"['Reading', 'Music']",Friendship,Maybe,Ph.D.,Teacher,66,Monthly
+54,27,Male,5.639233161,"['Hiking', 'Travel']",Long-term Relationship,No,Master's Degree,Engineer,25,Monthly
+55,28,Female,4.93352122,"['Music', 'Travel', 'Sports', 'Movies', 'Cooking', 'Reading']",Marriage,Yes,High School,Artist,96,Daily
+56,18,Female,5.211941482,['Travel'],Casual Dating,Maybe,Master's Degree,Doctor,88,Daily
+57,28,Female,5.332273465,"['Cooking', 'Movies']",Friendship,No,High School,Entrepreneur,26,Daily
+58,33,Female,5.724147914,"['Travel', 'Music', 'Sports', 'Reading', 'Movies', 'Hiking']",Friendship,Yes,Ph.D.,Doctor,24,Daily
+59,34,Female,5.288793847,"['Movies', 'Sports']",Casual Dating,Yes,Ph.D.,Artist,11,Monthly
+60,35,Male,6.010121017,"['Reading', 'Travel', 'Hiking', 'Cooking', 'Sports']",Long-term Relationship,Maybe,High School,Entrepreneur,80,Monthly
+61,34,Male,5.487375508,"['Cooking', 'Sports', 'Travel', 'Hiking', 'Music']",Friendship,Maybe,Master's Degree,Business Owner,13,Weekly
+62,30,Female,5.143568342,"['Cooking', 'Travel', 'Movies', 'Sports', 'Reading', 'Music', 'Hiking']",Friendship,Maybe,High School,Doctor,83,Daily
+63,21,Male,4.828775495,['Movies'],Long-term Relationship,No,Ph.D.,Engineer,18,Weekly
+64,25,Female,5.481743173,"['Travel', 'Sports', 'Cooking', 'Hiking', 'Music']",Casual Dating,No,Ph.D.,Business Owner,59,Monthly
+65,29,Female,5.498101994,"['Travel', 'Movies', 'Reading', 'Sports', 'Music', 'Cooking', 'Hiking']",Marriage,Maybe,Ph.D.,Entrepreneur,100,Monthly
+66,32,Female,6.091946192,"['Reading', 'Music', 'Cooking', 'Hiking', 'Sports', 'Movies', 'Travel']",Long-term Relationship,Maybe,Bachelor's Degree,Doctor,21,Daily
+67,33,Male,5.787207188,"['Movies', 'Cooking', 'Travel', 'Music', 'Reading', 'Hiking']",Marriage,Yes,Bachelor's Degree,Engineer,64,Daily
+68,34,Female,5.875026151,"['Music', 'Cooking', 'Travel', 'Reading', 'Sports', 'Hiking', 'Movies']",Long-term Relationship,No,Master's Degree,Doctor,40,Weekly
+69,31,Female,5.675738905,"['Movies', 'Travel', 'Music', 'Hiking', 'Cooking', 'Sports']",Friendship,Maybe,Bachelor's Degree,Student,40,Monthly
+70,22,Female,4.986148546,"['Cooking', 'Sports', 'Reading', 'Hiking', 'Movies', 'Music']",Long-term Relationship,No,High School,Entrepreneur,83,Daily
+71,30,Male,6.010019899,"['Reading', 'Travel', 'Music', 'Sports', 'Movies', 'Hiking']",Casual Dating,Yes,Ph.D.,Entrepreneur,90,Weekly
+72,27,Male,5.045984409,"['Hiking', 'Cooking', 'Movies', 'Travel', 'Reading', 'Sports']",Friendship,Maybe,Master's Degree,Business Owner,77,Weekly
+73,25,Female,5.945594046,"['Hiking', 'Music', 'Sports']",Long-term Relationship,Maybe,Bachelor's Degree,Business Owner,43,Weekly
+74,31,Male,4.915831462,"['Travel', 'Sports', 'Reading', 'Cooking', 'Hiking']",Friendship,No,Master's Degree,Engineer,70,Daily
+75,28,Male,6.017204887,"['Reading', 'Cooking', 'Sports', 'Hiking', 'Travel']",Long-term Relationship,No,Bachelor's Degree,Entrepreneur,95,Daily
+76,32,Female,4.821520923,"['Music', 'Movies', 'Hiking', 'Travel']",Friendship,Maybe,Master's Degree,Business Owner,84,Weekly
+77,35,Male,5.647848105,"['Hiking', 'Cooking', 'Sports', 'Reading']",Long-term Relationship,Yes,High School,Doctor,8,Weekly
+78,25,Female,5.284758438,"['Travel', 'Movies', 'Reading']",Casual Dating,Maybe,Ph.D.,Doctor,98,Daily
+79,23,Male,5.315058504,"['Sports', 'Cooking', 'Reading', 'Movies']",Marriage,Maybe,Master's Degree,Student,80,Daily
+80,31,Male,5.576484224,"['Travel', 'Sports', 'Hiking', 'Music', 'Reading']",Marriage,Maybe,Bachelor's Degree,Entrepreneur,69,Monthly
+81,20,Female,5.278267425,"['Hiking', 'Cooking', 'Music', 'Sports']",Friendship,Yes,Ph.D.,Teacher,18,Weekly
+82,34,Male,5.182119519,['Reading'],Long-term Relationship,Yes,Master's Degree,Entrepreneur,67,Monthly
+83,23,Male,5.765614765,"['Movies', 'Sports', 'Reading', 'Travel', 'Cooking']",Marriage,No,Ph.D.,Entrepreneur,45,Weekly
+84,18,Female,5.086925939,"['Music', 'Hiking', 'Travel', 'Movies', 'Sports', 'Reading', 'Cooking']",Marriage,No,Bachelor's Degree,Engineer,68,Daily
+85,25,Female,5.274114756,"['Music', 'Travel']",Marriage,Yes,Bachelor's Degree,Student,21,Monthly
+86,25,Male,5.873622343,"['Movies', 'Sports', 'Reading', 'Travel', 'Cooking']",Long-term Relationship,No,Bachelor's Degree,Business Owner,91,Monthly
+87,25,Male,5.3063258,"['Hiking', 'Sports']",Casual Dating,Maybe,Ph.D.,Teacher,23,Weekly
+88,24,Male,5.440640588,"['Music', 'Hiking', 'Travel']",Friendship,Yes,Master's Degree,Artist,47,Daily
+89,23,Male,5.118800048,"['Music', 'Reading', 'Sports', 'Cooking', 'Travel', 'Movies']",Marriage,Yes,High School,Engineer,19,Weekly
+90,25,Female,5.404581791,"['Sports', 'Cooking', 'Music', 'Hiking', 'Movies']",Marriage,No,Ph.D.,Student,0,Weekly
+91,24,Female,5.966181867,"['Cooking', 'Travel', 'Sports']",Friendship,Yes,High School,Student,98,Weekly
+92,22,Male,5.11022591,"['Music', 'Hiking', 'Cooking', 'Travel', 'Movies', 'Reading', 'Sports']",Marriage,Maybe,Ph.D.,Student,20,Weekly
+93,34,Female,5.132395954,['Cooking'],Long-term Relationship,No,Bachelor's Degree,Engineer,62,Daily
+94,24,Female,4.849596586,"['Travel', 'Sports']",Friendship,Maybe,Ph.D.,Student,81,Weekly
+95,31,Male,5.588251149,"['Hiking', 'Sports', 'Music']",Long-term Relationship,Maybe,Bachelor's Degree,Student,91,Daily
+96,32,Male,5.989481147,"['Travel', 'Hiking', 'Reading']",Long-term Relationship,Yes,High School,Social Media Influencer,97,Weekly
+97,29,Male,5.079546903,['Music'],Friendship,No,Master's Degree,Artist,48,Daily
+98,21,Male,5.875900642,"['Travel', 'Hiking']",Marriage,Maybe,Ph.D.,Engineer,21,Daily
+99,33,Female,5.85446642,"['Reading', 'Cooking', 'Sports', 'Hiking', 'Movies', 'Music', 'Travel']",Casual Dating,No,Bachelor's Degree,Entrepreneur,97,Monthly
+100,21,Female,5.671092132,"['Reading', 'Hiking', 'Sports']",Marriage,Yes,Ph.D.,Teacher,52,Weekly
+101,35,Male,5.059604715,"['Sports', 'Travel', 'Music', 'Reading', 'Movies', 'Hiking', 'Cooking']",Long-term Relationship,No,Master's Degree,Social Media Influencer,20,Monthly
+102,32,Male,4.893286395,"['Cooking', 'Hiking', 'Sports', 'Travel', 'Movies']",Friendship,Maybe,Master's Degree,Entrepreneur,17,Daily
+103,21,Female,5.576603689,"['Reading', 'Cooking', 'Movies', 'Music', 'Sports', 'Travel']",Casual Dating,No,High School,Artist,84,Monthly
+104,31,Male,5.992274035,"['Reading', 'Music', 'Movies', 'Hiking', 'Sports', 'Cooking', 'Travel']",Casual Dating,Yes,High School,Teacher,82,Daily
+105,27,Male,4.921042267,"['Movies', 'Hiking', 'Reading', 'Cooking', 'Travel']",Casual Dating,No,Master's Degree,Business Owner,64,Daily
+106,22,Female,5.456322762,"['Cooking', 'Travel']",Marriage,No,Ph.D.,Social Media Influencer,100,Monthly
+107,29,Male,5.818562323,"['Travel', 'Hiking', 'Movies', 'Sports', 'Reading', 'Cooking']",Friendship,Maybe,High School,Entrepreneur,82,Monthly
+108,24,Male,5.393125515,"['Hiking', 'Music', 'Cooking', 'Travel']",Friendship,Maybe,High School,Artist,87,Monthly
+109,19,Male,4.832884727,"['Reading', 'Movies', 'Travel']",Marriage,No,High School,Engineer,85,Daily
+110,22,Female,5.194927941,"['Hiking', 'Music', 'Travel', 'Movies', 'Cooking']",Casual Dating,Yes,Master's Degree,Engineer,42,Weekly
+111,22,Female,5.489702856,"['Travel', 'Cooking', 'Sports', 'Music', 'Reading']",Marriage,No,High School,Student,91,Daily
+112,19,Female,5.351056306,"['Reading', 'Music']",Marriage,Maybe,Bachelor's Degree,Social Media Influencer,23,Monthly
+113,25,Male,5.908935828,"['Cooking', 'Movies', 'Music', 'Reading', 'Travel', 'Sports']",Long-term Relationship,No,Ph.D.,Social Media Influencer,86,Daily
+114,30,Female,5.785305233,"['Cooking', 'Reading', 'Movies', 'Sports', 'Music']",Casual Dating,No,Ph.D.,Doctor,36,Weekly
+115,25,Male,5.724978687,"['Movies', 'Reading']",Long-term Relationship,Maybe,Ph.D.,Student,99,Weekly
+116,28,Female,4.948478625,"['Sports', 'Cooking', 'Hiking', 'Travel', 'Reading', 'Music']",Long-term Relationship,Yes,Bachelor's Degree,Doctor,90,Daily
+117,23,Female,5.760777553,"['Hiking', 'Cooking', 'Movies', 'Travel', 'Reading', 'Music']",Casual Dating,No,Master's Degree,Social Media Influencer,71,Monthly
+118,22,Female,5.439634254,"['Reading', 'Movies', 'Travel']",Marriage,Maybe,Master's Degree,Entrepreneur,75,Weekly
+119,32,Male,5.711927418,"['Cooking', 'Movies', 'Reading', 'Music']",Long-term Relationship,Yes,Master's Degree,Social Media Influencer,13,Weekly
+120,24,Male,5.379096948,"['Travel', 'Music', 'Reading', 'Hiking', 'Sports', 'Cooking']",Long-term Relationship,Yes,High School,Doctor,63,Daily
+121,22,Female,5.274778137,"['Hiking', 'Travel', 'Music', 'Cooking', 'Movies']",Casual Dating,No,Bachelor's Degree,Entrepreneur,39,Daily
+122,26,Male,5.690220677,"['Hiking', 'Movies', 'Travel']",Marriage,No,Ph.D.,Engineer,50,Monthly
+123,29,Male,4.961811123,"['Movies', 'Hiking']",Long-term Relationship,No,Bachelor's Degree,Social Media Influencer,77,Daily
+124,24,Male,5.581404552,"['Travel', 'Cooking', 'Music', 'Hiking']",Long-term Relationship,Maybe,Ph.D.,Student,25,Daily
+125,26,Female,6.029058682,"['Music', 'Movies', 'Sports', 'Cooking', 'Reading']",Marriage,No,Master's Degree,Social Media Influencer,4,Daily
+126,22,Female,5.835524648,"['Sports', 'Reading', 'Music']",Marriage,Maybe,High School,Teacher,29,Monthly
+127,30,Female,5.981008213,"['Travel', 'Sports']",Marriage,Maybe,Bachelor's Degree,Business Owner,26,Weekly
+128,26,Female,4.918994438,"['Music', 'Sports', 'Reading']",Marriage,No,Ph.D.,Student,75,Monthly
+129,32,Male,5.203101161,"['Reading', 'Sports', 'Hiking', 'Cooking', 'Movies', 'Travel']",Long-term Relationship,No,Master's Degree,Engineer,28,Weekly
+130,32,Male,5.04523848,['Travel'],Long-term Relationship,No,Ph.D.,Artist,100,Daily
+131,29,Male,5.788865011,"['Travel', 'Cooking']",Friendship,Maybe,Bachelor's Degree,Artist,42,Weekly
+132,25,Female,4.870367993,"['Cooking', 'Music', 'Travel', 'Hiking', 'Movies']",Casual Dating,Maybe,Ph.D.,Student,27,Daily
+133,26,Male,4.974412161,['Travel'],Marriage,No,Ph.D.,Teacher,55,Monthly
+134,34,Female,4.847555922,"['Movies', 'Travel', 'Reading', 'Cooking', 'Hiking', 'Sports']",Marriage,Maybe,Bachelor's Degree,Business Owner,33,Monthly
+135,35,Male,5.070226647,"['Cooking', 'Reading', 'Travel', 'Hiking']",Friendship,Maybe,Master's Degree,Doctor,80,Monthly
+136,33,Female,4.824931356,"['Hiking', 'Movies', 'Cooking', 'Reading', 'Music', 'Travel', 'Sports']",Long-term Relationship,Yes,High School,Engineer,69,Daily
+137,25,Female,5.634603464,"['Sports', 'Travel']",Long-term Relationship,Maybe,Master's Degree,Doctor,98,Weekly
+138,22,Female,5.602284036,['Cooking'],Long-term Relationship,Maybe,Master's Degree,Business Owner,78,Weekly
+139,28,Female,5.419478224,['Hiking'],Casual Dating,No,Bachelor's Degree,Social Media Influencer,3,Weekly
+140,20,Male,4.948687757,"['Music', 'Sports']",Casual Dating,Maybe,Bachelor's Degree,Entrepreneur,20,Monthly
+141,32,Male,5.93990721,"['Sports', 'Travel', 'Music']",Long-term Relationship,Yes,Ph.D.,Student,55,Daily
+142,27,Female,5.491959922,"['Movies', 'Reading', 'Travel', 'Hiking', 'Music', 'Cooking']",Marriage,Yes,Ph.D.,Artist,5,Daily
+143,33,Male,5.969105878,"['Sports', 'Movies', 'Reading', 'Hiking', 'Travel', 'Music']",Casual Dating,Yes,Bachelor's Degree,Student,31,Weekly
+144,32,Male,6.035192829,"['Travel', 'Reading', 'Movies', 'Sports', 'Music', 'Hiking']",Long-term Relationship,No,Bachelor's Degree,Business Owner,87,Daily
+145,32,Female,5.695097122,"['Reading', 'Music', 'Hiking', 'Cooking']",Long-term Relationship,Yes,Master's Degree,Artist,49,Monthly
+146,24,Male,5.900181697,"['Travel', 'Reading']",Long-term Relationship,Maybe,Master's Degree,Entrepreneur,97,Daily
+147,34,Male,5.91315459,"['Reading', 'Travel', 'Movies', 'Hiking', 'Cooking', 'Music', 'Sports']",Friendship,No,Bachelor's Degree,Business Owner,66,Daily
+148,21,Female,4.997129458,"['Cooking', 'Reading', 'Travel', 'Sports']",Friendship,No,Master's Degree,Social Media Influencer,47,Weekly
+149,25,Female,4.936878074,"['Reading', 'Movies', 'Sports', 'Hiking', 'Travel']",Long-term Relationship,Yes,High School,Doctor,87,Daily
+150,31,Female,5.517650142,"['Sports', 'Reading', 'Cooking', 'Travel', 'Movies', 'Hiking']",Long-term Relationship,Yes,Ph.D.,Artist,91,Weekly
+151,19,Female,6.026655004,"['Movies', 'Cooking', 'Hiking', 'Reading', 'Travel', 'Sports', 'Music']",Friendship,Maybe,Master's Degree,Teacher,65,Weekly
+152,18,Male,4.969361111,"['Travel', 'Cooking', 'Movies']",Casual Dating,Maybe,Master's Degree,Engineer,90,Weekly
+153,25,Male,6.016852766,['Cooking'],Marriage,No,Bachelor's Degree,Artist,66,Monthly
+154,34,Male,5.429590844,['Hiking'],Long-term Relationship,Maybe,Master's Degree,Social Media Influencer,92,Daily
+155,33,Female,5.170362689,"['Travel', 'Hiking', 'Reading', 'Cooking']",Casual Dating,Maybe,High School,Artist,54,Weekly
+156,33,Female,4.825390643,"['Travel', 'Movies']",Long-term Relationship,No,High School,Artist,62,Daily
+157,25,Male,6.044497033,"['Music', 'Movies', 'Cooking', 'Travel']",Long-term Relationship,Yes,Bachelor's Degree,Student,1,Daily
+158,21,Female,6.071489189,"['Travel', 'Reading', 'Music']",Long-term Relationship,Yes,High School,Business Owner,78,Monthly
+159,21,Male,5.972512938,"['Reading', 'Cooking', 'Music', 'Travel', 'Hiking', 'Movies', 'Sports']",Friendship,Yes,High School,Entrepreneur,42,Daily
+160,29,Female,6.062014427,"['Hiking', 'Reading', 'Sports', 'Music', 'Travel']",Casual Dating,Yes,Bachelor's Degree,Doctor,74,Daily
+161,27,Male,5.734964561,"['Travel', 'Music', 'Cooking', 'Movies', 'Sports', 'Reading']",Casual Dating,Yes,Master's Degree,Business Owner,56,Monthly
+162,32,Male,5.895955482,"['Movies', 'Cooking', 'Music', 'Reading', 'Hiking', 'Sports', 'Travel']",Marriage,Maybe,Master's Degree,Entrepreneur,85,Daily
+163,20,Female,5.536534873,"['Hiking', 'Music', 'Travel', 'Cooking']",Friendship,Maybe,High School,Doctor,25,Monthly
+164,27,Female,5.594635333,"['Music', 'Travel', 'Cooking', 'Movies', 'Sports']",Friendship,Yes,Bachelor's Degree,Artist,45,Daily
+165,30,Male,5.934433089,['Music'],Marriage,Yes,High School,Entrepreneur,39,Monthly
+166,23,Male,6.000886745,"['Cooking', 'Music', 'Sports', 'Movies', 'Travel']",Long-term Relationship,Maybe,Ph.D.,Doctor,47,Weekly
+167,28,Female,6.03633732,"['Sports', 'Reading', 'Travel', 'Cooking', 'Hiking', 'Music']",Long-term Relationship,Yes,Master's Degree,Artist,74,Daily
+168,20,Female,5.20523952,"['Cooking', 'Sports', 'Music', 'Reading', 'Travel', 'Hiking', 'Movies']",Casual Dating,No,High School,Social Media Influencer,58,Daily
+169,18,Female,5.999321283,['Sports'],Marriage,Maybe,Ph.D.,Engineer,91,Daily
+170,18,Female,5.044729224,"['Music', 'Movies', 'Sports', 'Reading', 'Cooking', 'Hiking', 'Travel']",Friendship,Yes,Master's Degree,Artist,12,Daily
+171,24,Male,5.984331189,['Movies'],Long-term Relationship,Maybe,Ph.D.,Engineer,66,Daily
+172,22,Male,5.090359398,"['Sports', 'Reading', 'Movies', 'Hiking', 'Travel', 'Cooking']",Friendship,Yes,Bachelor's Degree,Business Owner,7,Weekly
+173,22,Female,5.563129064,"['Reading', 'Music', 'Travel', 'Movies', 'Sports']",Long-term Relationship,Yes,Master's Degree,Student,26,Monthly
+174,21,Male,5.83348043,"['Hiking', 'Music', 'Cooking', 'Sports']",Marriage,No,Master's Degree,Entrepreneur,33,Daily
+175,25,Female,5.230155179,"['Sports', 'Music', 'Travel', 'Hiking', 'Movies', 'Reading', 'Cooking']",Casual Dating,Yes,Bachelor's Degree,Artist,58,Monthly
+176,26,Female,5.461762948,"['Movies', 'Cooking', 'Sports', 'Reading', 'Hiking', 'Music']",Friendship,No,Master's Degree,Artist,43,Daily
+177,26,Female,5.30407243,"['Reading', 'Movies', 'Cooking', 'Travel', 'Hiking', 'Music', 'Sports']",Long-term Relationship,Yes,High School,Doctor,13,Weekly
+178,28,Female,5.602235496,"['Hiking', 'Sports', 'Cooking', 'Music', 'Movies', 'Travel', 'Reading']",Casual Dating,Maybe,High School,Social Media Influencer,89,Weekly
+179,32,Male,4.932971096,['Hiking'],Long-term Relationship,No,High School,Entrepreneur,1,Daily
+180,31,Male,5.910313086,"['Music', 'Cooking', 'Travel']",Casual Dating,Maybe,Bachelor's Degree,Teacher,84,Weekly
+181,25,Male,5.956136949,"['Sports', 'Music', 'Hiking', 'Travel', 'Cooking', 'Movies', 'Reading']",Casual Dating,Maybe,Ph.D.,Entrepreneur,34,Monthly
+182,30,Female,5.209967347,"['Music', 'Sports', 'Movies', 'Travel']",Marriage,Yes,High School,Student,24,Daily
+183,23,Female,5.30723439,"['Movies', 'Sports', 'Reading', 'Travel', 'Hiking', 'Music', 'Cooking']",Casual Dating,Yes,High School,Teacher,31,Daily
+184,32,Female,5.43501189,"['Hiking', 'Travel']",Marriage,Yes,High School,Artist,78,Monthly
+185,35,Male,5.547673802,"['Music', 'Hiking', 'Reading', 'Sports', 'Cooking', 'Travel']",Casual Dating,No,Bachelor's Degree,Engineer,40,Daily
+186,27,Female,5.153931405,"['Hiking', 'Music', 'Travel', 'Reading']",Casual Dating,Maybe,Bachelor's Degree,Engineer,83,Monthly
+187,30,Male,5.55241468,"['Movies', 'Cooking', 'Hiking', 'Travel', 'Music', 'Reading']",Long-term Relationship,No,Ph.D.,Entrepreneur,33,Daily
+188,29,Male,5.781458502,['Reading'],Casual Dating,No,Ph.D.,Student,28,Monthly
+189,34,Male,5.399002094,"['Movies', 'Cooking', 'Sports', 'Music', 'Hiking', 'Reading', 'Travel']",Marriage,No,Master's Degree,Social Media Influencer,96,Daily
+190,26,Male,5.315490467,"['Hiking', 'Music', 'Cooking', 'Reading', 'Sports', 'Movies', 'Travel']",Casual Dating,No,Master's Degree,Engineer,17,Monthly
+191,21,Female,5.964925174,['Movies'],Long-term Relationship,No,Ph.D.,Artist,23,Weekly
+192,29,Male,4.861214967,"['Sports', 'Movies']",Friendship,No,Ph.D.,Engineer,8,Monthly
+193,24,Female,5.757162264,['Movies'],Long-term Relationship,No,Bachelor's Degree,Teacher,5,Daily
+194,30,Female,5.175375355,['Movies'],Marriage,Maybe,Master's Degree,Entrepreneur,24,Weekly
+195,31,Male,5.878424441,"['Travel', 'Reading', 'Sports', 'Cooking', 'Music']",Casual Dating,Maybe,High School,Engineer,5,Weekly
+196,31,Male,5.918040614,"['Reading', 'Movies', 'Hiking', 'Sports', 'Travel']",Casual Dating,No,Master's Degree,Doctor,67,Monthly
+197,23,Female,4.988480674,"['Movies', 'Reading', 'Hiking', 'Music', 'Travel', 'Cooking']",Long-term Relationship,Yes,Bachelor's Degree,Engineer,52,Daily
+198,31,Female,4.925777565,"['Movies', 'Hiking']",Friendship,No,High School,Business Owner,10,Monthly
+199,26,Male,4.925401318,"['Travel', 'Hiking', 'Reading', 'Music', 'Sports']",Friendship,Yes,Master's Degree,Student,86,Daily
+200,28,Female,5.927838461,"['Cooking', 'Music']",Casual Dating,No,Bachelor's Degree,Entrepreneur,74,Monthly
+201,33,Male,5.653778605,"['Cooking', 'Reading', 'Travel', 'Movies', 'Sports']",Casual Dating,Yes,Bachelor's Degree,Business Owner,30,Weekly
+202,23,Female,5.388590379,"['Cooking', 'Music', 'Movies', 'Reading', 'Hiking', 'Travel']",Friendship,Maybe,Ph.D.,Business Owner,37,Daily
+203,34,Female,5.157305209,"['Sports', 'Cooking']",Marriage,Maybe,Ph.D.,Doctor,52,Weekly
+204,34,Female,5.896001769,"['Music', 'Cooking', 'Movies', 'Sports']",Friendship,No,Master's Degree,Doctor,59,Daily
+205,22,Female,5.778640691,"['Hiking', 'Movies', 'Reading', 'Travel', 'Sports', 'Cooking', 'Music']",Marriage,No,Master's Degree,Teacher,40,Daily
+206,29,Male,5.483801991,"['Sports', 'Travel', 'Cooking', 'Movies', 'Music', 'Hiking']",Casual Dating,Maybe,Master's Degree,Teacher,82,Weekly
+207,35,Female,5.575411051,"['Cooking', 'Movies', 'Travel', 'Reading']",Long-term Relationship,Yes,High School,Artist,5,Daily
+208,34,Male,5.117566674,"['Hiking', 'Music', 'Cooking', 'Movies', 'Reading', 'Sports']",Friendship,Yes,Master's Degree,Social Media Influencer,41,Weekly
+209,19,Female,5.020205697,"['Cooking', 'Sports']",Long-term Relationship,Maybe,Master's Degree,Engineer,88,Monthly
+210,24,Male,4.895430288,"['Movies', 'Sports', 'Music']",Long-term Relationship,No,Master's Degree,Doctor,81,Monthly
+211,28,Male,4.991185378,"['Movies', 'Reading']",Casual Dating,No,Bachelor's Degree,Entrepreneur,56,Monthly
+212,25,Female,4.995193124,"['Sports', 'Cooking', 'Hiking', 'Travel', 'Music', 'Movies']",Marriage,Yes,Bachelor's Degree,Doctor,21,Monthly
+213,26,Female,5.888419309,['Sports'],Long-term Relationship,Yes,High School,Engineer,12,Weekly
+214,32,Male,5.892688914,['Movies'],Casual Dating,Yes,Bachelor's Degree,Artist,38,Monthly
+215,20,Male,5.173087242,"['Music', 'Reading', 'Cooking', 'Travel']",Long-term Relationship,Maybe,Ph.D.,Engineer,43,Weekly
+216,32,Male,6.022524796,"['Cooking', 'Sports']",Long-term Relationship,Yes,High School,Entrepreneur,9,Weekly
+217,22,Female,5.428566144,"['Movies', 'Music', 'Sports', 'Reading', 'Travel']",Casual Dating,No,Master's Degree,Student,36,Weekly
+218,29,Female,5.071763493,['Cooking'],Casual Dating,Yes,Bachelor's Degree,Business Owner,83,Weekly
+219,23,Female,4.840057718,"['Travel', 'Movies', 'Music', 'Hiking']",Casual Dating,No,Ph.D.,Business Owner,23,Monthly
+220,25,Female,5.37964295,"['Movies', 'Travel']",Friendship,No,Bachelor's Degree,Entrepreneur,72,Daily
+221,34,Male,5.428406052,"['Music', 'Reading', 'Cooking', 'Hiking']",Casual Dating,Maybe,Bachelor's Degree,Artist,43,Monthly
+222,31,Female,5.526686397,"['Movies', 'Reading']",Casual Dating,No,Ph.D.,Entrepreneur,38,Monthly
+223,35,Female,5.359643124,"['Music', 'Hiking', 'Sports', 'Travel']",Long-term Relationship,No,Ph.D.,Teacher,95,Weekly
+224,24,Male,5.286644908,"['Music', 'Travel']",Friendship,No,Ph.D.,Engineer,20,Daily
+225,33,Male,5.710349951,"['Cooking', 'Reading', 'Music', 'Hiking', 'Movies']",Marriage,Yes,Ph.D.,Student,53,Weekly
+226,31,Male,5.693267155,"['Travel', 'Hiking', 'Reading', 'Movies', 'Sports', 'Cooking', 'Music']",Casual Dating,No,Bachelor's Degree,Artist,83,Weekly
+227,33,Female,5.537310038,"['Hiking', 'Sports', 'Travel', 'Reading', 'Movies', 'Cooking', 'Music']",Marriage,No,High School,Doctor,18,Monthly
+228,23,Female,6.08849682,"['Travel', 'Movies', 'Hiking', 'Cooking', 'Sports', 'Reading']",Long-term Relationship,Yes,Master's Degree,Doctor,27,Weekly
+229,23,Male,5.536646678,"['Hiking', 'Reading', 'Cooking', 'Travel']",Marriage,No,Bachelor's Degree,Entrepreneur,63,Weekly
+230,20,Male,4.956077483,['Music'],Long-term Relationship,Maybe,Bachelor's Degree,Business Owner,58,Daily
+231,35,Male,5.66997681,"['Sports', 'Music', 'Reading', 'Travel', 'Cooking', 'Movies', 'Hiking']",Friendship,Maybe,High School,Entrepreneur,46,Weekly
+232,27,Female,5.449691347,"['Hiking', 'Movies', 'Travel', 'Reading', 'Music', 'Sports']",Casual Dating,Yes,Bachelor's Degree,Business Owner,48,Weekly
+233,34,Male,5.824791419,"['Cooking', 'Hiking']",Casual Dating,Maybe,Master's Degree,Artist,55,Weekly
+234,28,Male,5.805759132,"['Cooking', 'Hiking', 'Movies', 'Travel', 'Music']",Casual Dating,Yes,Ph.D.,Business Owner,51,Weekly
+235,20,Female,5.592903653,"['Reading', 'Sports']",Marriage,No,Master's Degree,Teacher,77,Monthly
+236,24,Female,5.996961,['Music'],Marriage,Yes,Ph.D.,Engineer,91,Weekly
+237,31,Male,5.483870065,"['Hiking', 'Travel']",Friendship,Maybe,Bachelor's Degree,Doctor,100,Weekly
+238,19,Male,5.767917925,"['Travel', 'Reading', 'Sports']",Long-term Relationship,No,High School,Teacher,19,Monthly
+239,31,Male,6.079904608,"['Sports', 'Music', 'Cooking', 'Hiking', 'Reading', 'Travel', 'Movies']",Marriage,Maybe,Bachelor's Degree,Doctor,26,Daily
+240,27,Female,4.939965996,"['Travel', 'Reading', 'Music', 'Movies']",Casual Dating,Yes,Bachelor's Degree,Business Owner,77,Weekly
+241,21,Female,5.243419849,"['Travel', 'Reading', 'Music', 'Hiking']",Friendship,Yes,High School,Artist,80,Daily
+242,35,Male,6.004320592,"['Cooking', 'Sports', 'Music', 'Hiking', 'Reading', 'Travel', 'Movies']",Long-term Relationship,No,Master's Degree,Engineer,56,Weekly
+243,27,Female,6.060979936,"['Hiking', 'Travel', 'Cooking', 'Music']",Casual Dating,Maybe,High School,Student,2,Daily
+244,31,Male,5.956791074,"['Reading', 'Music', 'Movies', 'Cooking', 'Travel', 'Sports', 'Hiking']",Marriage,Yes,High School,Business Owner,40,Monthly
+245,23,Female,5.266163951,"['Movies', 'Sports', 'Hiking', 'Music', 'Travel']",Casual Dating,Yes,Bachelor's Degree,Artist,85,Monthly
+246,23,Female,4.822784639,"['Cooking', 'Hiking']",Long-term Relationship,Maybe,High School,Doctor,38,Daily
+247,27,Male,5.933244393,"['Hiking', 'Sports', 'Cooking', 'Reading']",Long-term Relationship,Maybe,High School,Student,21,Daily
+248,23,Female,4.980607982,"['Music', 'Movies', 'Reading', 'Cooking', 'Travel']",Long-term Relationship,Yes,Ph.D.,Entrepreneur,30,Monthly
+249,34,Female,5.242814351,"['Cooking', 'Music', 'Travel', 'Reading']",Casual Dating,Maybe,Ph.D.,Teacher,39,Daily
+250,25,Female,5.697726393,"['Travel', 'Cooking']",Casual Dating,Maybe,High School,Student,50,Weekly
+251,21,Male,6.062549866,"['Travel', 'Reading', 'Movies', 'Hiking', 'Music', 'Cooking']",Marriage,No,Bachelor's Degree,Business Owner,66,Daily
+252,34,Male,5.077338823,"['Movies', 'Travel', 'Sports', 'Hiking', 'Cooking', 'Reading']",Long-term Relationship,No,Master's Degree,Artist,42,Daily
+253,21,Male,5.079396047,"['Travel', 'Sports', 'Movies', 'Hiking']",Casual Dating,Yes,Bachelor's Degree,Business Owner,96,Daily
+254,25,Male,6.056043731,"['Cooking', 'Sports']",Long-term Relationship,Maybe,Bachelor's Degree,Teacher,60,Daily
+255,27,Female,5.042910215,"['Cooking', 'Hiking', 'Music', 'Travel']",Long-term Relationship,Maybe,Ph.D.,Business Owner,2,Monthly
+256,26,Male,5.608115379,"['Reading', 'Music', 'Sports']",Friendship,Maybe,Ph.D.,Artist,72,Weekly
+257,22,Female,4.943380426,['Sports'],Long-term Relationship,No,Bachelor's Degree,Engineer,1,Monthly
+258,29,Male,5.663725561,['Sports'],Marriage,Yes,Bachelor's Degree,Social Media Influencer,18,Monthly
+259,28,Male,5.258613652,['Reading'],Casual Dating,No,High School,Doctor,23,Weekly
+260,23,Male,5.093497784,"['Movies', 'Reading', 'Hiking', 'Music', 'Sports']",Casual Dating,Yes,Master's Degree,Artist,10,Daily
+261,32,Female,5.211934831,"['Sports', 'Music', 'Hiking', 'Reading']",Long-term Relationship,No,Bachelor's Degree,Engineer,53,Weekly
+262,33,Male,5.999573314,"['Travel', 'Sports', 'Movies', 'Hiking', 'Reading']",Friendship,Yes,Bachelor's Degree,Entrepreneur,4,Weekly
+263,22,Male,5.340266375,"['Music', 'Hiking']",Casual Dating,Maybe,Master's Degree,Teacher,24,Daily
+264,32,Female,5.416847607,"['Hiking', 'Sports', 'Music', 'Reading', 'Travel', 'Cooking']",Long-term Relationship,Yes,Bachelor's Degree,Teacher,31,Monthly
+265,19,Female,5.730608517,"['Movies', 'Music', 'Travel']",Friendship,Maybe,Ph.D.,Doctor,21,Weekly
+266,24,Male,5.124974855,"['Sports', 'Movies', 'Hiking', 'Music', 'Cooking', 'Reading']",Casual Dating,No,Bachelor's Degree,Doctor,81,Daily
+267,21,Male,5.080547844,"['Sports', 'Cooking', 'Music', 'Travel', 'Hiking', 'Reading', 'Movies']",Friendship,Yes,Ph.D.,Artist,1,Daily
+268,24,Male,5.135093361,"['Reading', 'Hiking', 'Sports', 'Travel']",Friendship,Yes,Ph.D.,Student,65,Weekly
+269,34,Female,5.524780629,"['Travel', 'Music', 'Reading', 'Hiking']",Marriage,Yes,Bachelor's Degree,Business Owner,76,Weekly
+270,21,Male,5.330753042,"['Music', 'Sports', 'Travel', 'Hiking', 'Cooking', 'Movies']",Casual Dating,Maybe,Master's Degree,Entrepreneur,67,Monthly
+271,19,Female,4.982481289,"['Hiking', 'Sports']",Casual Dating,No,High School,Teacher,19,Weekly
+272,33,Female,5.60507198,"['Travel', 'Cooking', 'Sports', 'Reading']",Casual Dating,Maybe,Bachelor's Degree,Teacher,3,Daily
+273,18,Female,5.773902414,"['Travel', 'Reading']",Casual Dating,Yes,Master's Degree,Teacher,37,Weekly
+274,29,Male,5.405508529,"['Reading', 'Movies', 'Travel', 'Music', 'Hiking', 'Cooking', 'Sports']",Friendship,No,Bachelor's Degree,Doctor,96,Weekly
+275,26,Male,5.092091101,"['Music', 'Reading', 'Movies', 'Travel', 'Sports']",Friendship,No,Bachelor's Degree,Entrepreneur,81,Weekly
+276,24,Female,5.397951753,"['Travel', 'Sports', 'Hiking', 'Reading', 'Music', 'Cooking']",Casual Dating,Yes,Master's Degree,Social Media Influencer,98,Monthly
+277,22,Male,5.514587963,"['Cooking', 'Movies', 'Sports', 'Travel', 'Music']",Long-term Relationship,Yes,Ph.D.,Engineer,33,Daily
+278,22,Male,5.122042587,"['Sports', 'Hiking', 'Music']",Friendship,Yes,Ph.D.,Teacher,10,Daily
+279,24,Male,5.162227209,"['Reading', 'Movies', 'Hiking', 'Travel', 'Sports', 'Cooking', 'Music']",Marriage,Yes,Master's Degree,Business Owner,52,Weekly
+280,29,Male,5.022336945,"['Travel', 'Hiking', 'Music', 'Sports', 'Reading', 'Cooking', 'Movies']",Friendship,Maybe,Bachelor's Degree,Student,29,Monthly
+281,26,Female,5.91570325,['Hiking'],Casual Dating,Maybe,Bachelor's Degree,Social Media Influencer,82,Weekly
+282,20,Male,5.121627462,['Sports'],Friendship,Yes,Bachelor's Degree,Engineer,25,Weekly
+283,29,Male,4.820979091,"['Travel', 'Movies', 'Reading', 'Music', 'Cooking']",Marriage,Maybe,High School,Artist,95,Weekly
+284,30,Male,6.008917608,"['Travel', 'Sports', 'Movies', 'Music', 'Cooking', 'Reading', 'Hiking']",Long-term Relationship,Maybe,Bachelor's Degree,Business Owner,55,Weekly
+285,21,Male,5.805488557,"['Sports', 'Hiking']",Casual Dating,Maybe,High School,Entrepreneur,78,Monthly
+286,24,Female,4.856047889,"['Music', 'Movies', 'Hiking', 'Sports', 'Reading', 'Travel']",Marriage,Maybe,Ph.D.,Social Media Influencer,10,Daily
+287,34,Female,5.670120248,"['Reading', 'Hiking', 'Cooking', 'Music', 'Movies', 'Travel', 'Sports']",Friendship,Yes,Ph.D.,Social Media Influencer,98,Daily
+288,35,Male,6.027808209,"['Travel', 'Music', 'Sports', 'Cooking', 'Reading', 'Hiking']",Casual Dating,Yes,Ph.D.,Entrepreneur,88,Daily
+289,31,Male,5.71618161,"['Sports', 'Hiking', 'Movies']",Casual Dating,Maybe,Master's Degree,Social Media Influencer,61,Weekly
+290,29,Female,6.059507279,"['Hiking', 'Music', 'Sports', 'Movies', 'Travel']",Marriage,No,Ph.D.,Teacher,40,Weekly
+291,22,Female,5.250842815,"['Cooking', 'Movies', 'Travel', 'Reading', 'Music', 'Hiking']",Long-term Relationship,Maybe,Ph.D.,Teacher,89,Weekly
+292,19,Male,4.814276847,"['Cooking', 'Reading', 'Travel', 'Sports', 'Hiking', 'Movies']",Long-term Relationship,Yes,Master's Degree,Social Media Influencer,79,Daily
+293,21,Female,5.321483794,['Movies'],Casual Dating,Maybe,High School,Business Owner,72,Daily
+294,33,Female,4.961832936,"['Cooking', 'Music', 'Hiking', 'Movies']",Long-term Relationship,No,Bachelor's Degree,Social Media Influencer,40,Daily
+295,34,Female,4.884098149,"['Sports', 'Reading', 'Cooking', 'Hiking', 'Movies']",Long-term Relationship,No,High School,Student,32,Weekly
+296,34,Male,5.860086518,"['Travel', 'Hiking', 'Music', 'Sports', 'Cooking']",Long-term Relationship,Maybe,Bachelor's Degree,Student,90,Daily
+297,28,Male,5.4440119,"['Travel', 'Reading', 'Movies', 'Cooking', 'Hiking']",Friendship,No,Ph.D.,Social Media Influencer,82,Daily
+298,27,Male,5.123087942,"['Hiking', 'Cooking']",Casual Dating,Maybe,Ph.D.,Social Media Influencer,22,Weekly
+299,20,Female,5.7704237,"['Travel', 'Cooking', 'Movies', 'Hiking', 'Reading', 'Music']",Long-term Relationship,Maybe,Master's Degree,Doctor,67,Daily
+300,29,Female,5.199828586,"['Cooking', 'Reading', 'Music', 'Hiking', 'Travel', 'Sports', 'Movies']",Friendship,Yes,High School,Engineer,73,Daily
+301,34,Male,5.698671292,"['Music', 'Cooking']",Friendship,No,High School,Doctor,100,Daily
+302,30,Female,5.750677678,"['Cooking', 'Music', 'Movies']",Casual Dating,Yes,High School,Doctor,31,Daily
+303,28,Male,5.486238849,"['Hiking', 'Music', 'Cooking', 'Movies']",Friendship,Yes,High School,Doctor,44,Weekly
+304,23,Male,5.194441122,['Movies'],Friendship,No,Bachelor's Degree,Student,41,Weekly
+305,24,Male,5.391177305,['Sports'],Long-term Relationship,No,Master's Degree,Student,41,Daily
+306,28,Female,5.658286612,"['Reading', 'Hiking', 'Cooking', 'Music', 'Movies', 'Travel', 'Sports']",Marriage,Yes,Master's Degree,Artist,66,Daily
+307,21,Male,5.637669873,"['Travel', 'Reading']",Long-term Relationship,No,Master's Degree,Artist,8,Daily
+308,26,Male,5.856969607,"['Reading', 'Hiking', 'Music', 'Movies']",Casual Dating,No,Master's Degree,Teacher,41,Monthly
+309,26,Female,5.903958589,"['Movies', 'Cooking']",Long-term Relationship,Maybe,High School,Business Owner,59,Weekly
+310,35,Female,5.109899345,['Movies'],Long-term Relationship,Maybe,Bachelor's Degree,Engineer,89,Weekly
+311,24,Female,5.555548923,['Hiking'],Friendship,Yes,Master's Degree,Engineer,90,Daily
+312,32,Male,6.084900007,"['Hiking', 'Music', 'Cooking', 'Reading', 'Travel']",Casual Dating,Yes,Bachelor's Degree,Entrepreneur,40,Monthly
+313,20,Male,5.352470025,"['Movies', 'Reading', 'Travel', 'Music', 'Hiking']",Friendship,No,Master's Degree,Doctor,22,Monthly
+314,33,Female,5.366572766,"['Music', 'Sports', 'Travel']",Friendship,Yes,High School,Business Owner,26,Weekly
+315,21,Male,5.715363214,"['Travel', 'Sports', 'Music']",Long-term Relationship,No,Master's Degree,Doctor,66,Weekly
+316,32,Female,5.620802824,"['Movies', 'Hiking', 'Music', 'Reading', 'Cooking', 'Sports', 'Travel']",Friendship,Yes,Master's Degree,Business Owner,47,Monthly
+317,27,Female,5.762046927,"['Cooking', 'Travel']",Marriage,Maybe,Master's Degree,Business Owner,75,Monthly
+318,26,Male,4.865860265,"['Travel', 'Hiking', 'Music', 'Sports', 'Movies', 'Cooking']",Casual Dating,Yes,Bachelor's Degree,Doctor,19,Weekly
+319,24,Female,5.119151669,['Music'],Marriage,Maybe,High School,Teacher,21,Monthly
+320,19,Female,4.959943329,"['Sports', 'Music', 'Movies', 'Hiking', 'Reading']",Friendship,Yes,Ph.D.,Entrepreneur,82,Weekly
+321,20,Male,5.633222379,"['Sports', 'Reading', 'Cooking', 'Travel', 'Movies', 'Hiking', 'Music']",Casual Dating,Yes,Master's Degree,Teacher,90,Monthly
+322,20,Female,5.954095645,"['Sports', 'Music', 'Hiking', 'Travel', 'Cooking']",Friendship,Maybe,Master's Degree,Student,28,Monthly
+323,30,Male,4.947813539,"['Hiking', 'Travel', 'Movies', 'Reading', 'Sports', 'Cooking', 'Music']",Marriage,No,Bachelor's Degree,Student,57,Weekly
+324,25,Female,5.036950362,"['Sports', 'Music']",Marriage,Yes,High School,Teacher,86,Daily
+325,31,Female,5.393025548,"['Reading', 'Cooking']",Casual Dating,No,Ph.D.,Business Owner,46,Weekly
+326,21,Male,5.460407667,"['Travel', 'Reading', 'Hiking', 'Sports', 'Cooking']",Long-term Relationship,No,Bachelor's Degree,Social Media Influencer,26,Monthly
+327,32,Female,4.918010006,"['Cooking', 'Sports', 'Music']",Friendship,No,Bachelor's Degree,Engineer,22,Monthly
+328,18,Female,6.088088387,['Hiking'],Friendship,Yes,Ph.D.,Artist,8,Daily
+329,31,Male,5.337728375,"['Reading', 'Hiking']",Marriage,Maybe,Bachelor's Degree,Teacher,35,Monthly
+330,19,Female,5.563989224,['Cooking'],Friendship,Yes,Ph.D.,Artist,17,Monthly
+331,26,Male,5.28695252,"['Cooking', 'Travel', 'Hiking', 'Movies', 'Music']",Friendship,Yes,Master's Degree,Artist,53,Daily
+332,28,Female,5.129517339,"['Sports', 'Reading', 'Music', 'Cooking', 'Travel', 'Movies', 'Hiking']",Long-term Relationship,No,High School,Entrepreneur,58,Weekly
+333,32,Female,5.901120533,"['Hiking', 'Cooking', 'Reading', 'Movies', 'Sports', 'Travel']",Marriage,Maybe,Bachelor's Degree,Business Owner,53,Daily
+334,33,Male,5.071891524,['Hiking'],Casual Dating,No,High School,Social Media Influencer,70,Weekly
+335,33,Male,5.301561245,['Cooking'],Marriage,Yes,Ph.D.,Student,81,Weekly
+336,34,Female,5.220555377,"['Hiking', 'Music', 'Movies', 'Cooking', 'Travel']",Friendship,Yes,Ph.D.,Entrepreneur,81,Daily
+337,34,Female,5.318382806,"['Music', 'Cooking']",Marriage,Yes,Ph.D.,Entrepreneur,61,Daily
+338,19,Male,5.336495574,"['Movies', 'Reading', 'Travel', 'Cooking']",Casual Dating,No,Bachelor's Degree,Doctor,0,Monthly
+339,18,Male,5.775163163,"['Hiking', 'Travel', 'Sports', 'Movies']",Friendship,Maybe,Ph.D.,Student,86,Daily
+340,28,Female,4.93001138,"['Reading', 'Cooking', 'Travel']",Casual Dating,No,Master's Degree,Teacher,27,Daily
+341,31,Female,4.882197496,"['Sports', 'Hiking', 'Movies', 'Music', 'Cooking']",Marriage,Maybe,Ph.D.,Entrepreneur,85,Weekly
+342,25,Male,5.910725978,"['Reading', 'Movies']",Marriage,No,High School,Engineer,64,Monthly
+343,19,Male,5.986398863,"['Music', 'Travel', 'Movies', 'Cooking', 'Reading', 'Hiking']",Casual Dating,No,Bachelor's Degree,Business Owner,56,Daily
+344,18,Female,5.799022568,"['Reading', 'Music', 'Sports', 'Travel', 'Movies', 'Cooking', 'Hiking']",Marriage,Yes,Ph.D.,Student,100,Weekly
+345,30,Male,5.038961498,"['Travel', 'Movies', 'Cooking', 'Reading']",Casual Dating,Yes,High School,Entrepreneur,2,Daily
+346,25,Male,5.113445757,"['Hiking', 'Travel', 'Reading', 'Movies']",Friendship,Yes,High School,Engineer,3,Daily
+347,26,Female,4.884820555,"['Sports', 'Movies']",Long-term Relationship,No,Ph.D.,Teacher,47,Daily
+348,34,Male,5.162213388,['Sports'],Friendship,No,Master's Degree,Engineer,9,Monthly
+349,29,Female,5.477402986,"['Reading', 'Travel']",Casual Dating,Maybe,High School,Teacher,15,Daily
+350,23,Male,5.724484191,"['Music', 'Reading', 'Hiking']",Friendship,Maybe,Ph.D.,Student,100,Monthly
+351,27,Female,4.835711482,"['Reading', 'Sports', 'Travel']",Marriage,Maybe,Master's Degree,Engineer,31,Monthly
+352,33,Male,5.116988742,"['Travel', 'Hiking', 'Music', 'Cooking', 'Sports', 'Reading']",Friendship,Yes,High School,Business Owner,18,Weekly
+353,19,Male,4.986398383,"['Reading', 'Sports']",Marriage,Maybe,Bachelor's Degree,Student,0,Daily
+354,35,Male,4.943921999,"['Movies', 'Reading', 'Hiking']",Marriage,Maybe,High School,Teacher,76,Monthly
+355,33,Female,5.833852818,"['Travel', 'Music', 'Hiking', 'Sports']",Marriage,Yes,Ph.D.,Teacher,67,Monthly
+356,18,Male,4.807386363,"['Sports', 'Cooking', 'Music', 'Reading', 'Hiking', 'Travel']",Long-term Relationship,Yes,Master's Degree,Business Owner,36,Daily
+357,19,Female,5.27308576,"['Cooking', 'Travel', 'Reading']",Friendship,No,Bachelor's Degree,Entrepreneur,59,Daily
+358,25,Male,5.571340947,"['Cooking', 'Travel', 'Reading']",Friendship,Yes,High School,Business Owner,98,Weekly
+359,23,Female,5.150213099,"['Music', 'Cooking']",Long-term Relationship,Maybe,Bachelor's Degree,Student,48,Weekly
+360,25,Female,4.901019235,"['Music', 'Reading', 'Cooking', 'Hiking', 'Sports']",Long-term Relationship,No,High School,Teacher,68,Monthly
+361,32,Female,5.636054777,"['Cooking', 'Travel', 'Sports', 'Reading', 'Movies', 'Music', 'Hiking']",Friendship,Yes,Bachelor's Degree,Social Media Influencer,25,Weekly
+362,26,Female,6.07494064,"['Movies', 'Music']",Long-term Relationship,No,High School,Artist,47,Daily
+363,31,Female,5.256868021,['Travel'],Friendship,Yes,High School,Social Media Influencer,64,Daily
+364,35,Female,5.948386657,"['Travel', 'Sports']",Long-term Relationship,No,Ph.D.,Entrepreneur,23,Monthly
+365,35,Male,4.852049088,"['Cooking', 'Reading', 'Hiking', 'Movies', 'Travel']",Marriage,Maybe,Bachelor's Degree,Teacher,11,Weekly
+366,29,Female,4.995185361,['Movies'],Long-term Relationship,No,Master's Degree,Business Owner,19,Monthly
+367,32,Female,5.879703074,"['Movies', 'Hiking', 'Reading', 'Sports', 'Music']",Casual Dating,No,Bachelor's Degree,Social Media Influencer,17,Daily
+368,26,Female,5.220768511,"['Reading', 'Cooking', 'Movies', 'Music', 'Hiking', 'Travel']",Friendship,No,Ph.D.,Teacher,10,Monthly
+369,34,Female,5.568867346,"['Sports', 'Cooking', 'Music', 'Travel', 'Reading']",Long-term Relationship,Maybe,Bachelor's Degree,Social Media Influencer,44,Daily
+370,18,Male,5.964180263,"['Reading', 'Hiking', 'Music', 'Travel', 'Movies', 'Sports', 'Cooking']",Long-term Relationship,Yes,Bachelor's Degree,Student,86,Monthly
+371,35,Female,5.226599408,"['Movies', 'Travel', 'Hiking', 'Reading']",Friendship,Maybe,Master's Degree,Artist,32,Daily
+372,33,Male,5.753790655,"['Movies', 'Travel', 'Cooking']",Marriage,Yes,Master's Degree,Entrepreneur,69,Monthly
+373,21,Male,5.674439366,"['Reading', 'Travel']",Marriage,Yes,Ph.D.,Teacher,97,Monthly
+374,23,Female,5.724456145,"['Movies', 'Sports', 'Reading']",Long-term Relationship,Maybe,Bachelor's Degree,Student,89,Monthly
+375,20,Female,4.98167904,"['Reading', 'Cooking', 'Hiking']",Casual Dating,Yes,Ph.D.,Artist,58,Monthly
+376,25,Male,5.87648584,['Travel'],Friendship,Yes,High School,Business Owner,38,Monthly
+377,26,Male,5.937479067,['Reading'],Friendship,Maybe,Master's Degree,Artist,99,Weekly
+378,32,Female,5.35626766,"['Movies', 'Sports', 'Travel', 'Music']",Long-term Relationship,Maybe,Master's Degree,Engineer,97,Daily
+379,23,Male,5.295849431,"['Travel', 'Sports', 'Reading', 'Music', 'Cooking']",Casual Dating,Maybe,Ph.D.,Social Media Influencer,50,Weekly
+380,22,Male,5.15854676,"['Music', 'Cooking', 'Sports']",Marriage,No,High School,Entrepreneur,18,Daily
+381,34,Male,5.506649191,"['Hiking', 'Reading', 'Sports', 'Movies', 'Travel']",Long-term Relationship,No,Bachelor's Degree,Business Owner,74,Weekly
+382,31,Female,5.827281925,"['Movies', 'Travel', 'Hiking', 'Cooking']",Long-term Relationship,Maybe,Master's Degree,Social Media Influencer,69,Monthly
+383,28,Male,6.020036732,"['Hiking', 'Cooking', 'Movies', 'Reading', 'Music']",Friendship,Yes,High School,Business Owner,84,Monthly
+384,34,Female,5.814589086,"['Sports', 'Movies']",Casual Dating,Maybe,Ph.D.,Artist,22,Daily
+385,32,Female,5.396885033,"['Movies', 'Reading', 'Travel', 'Sports', 'Cooking']",Friendship,Yes,Ph.D.,Engineer,59,Weekly
+386,30,Female,5.927460775,"['Hiking', 'Reading']",Long-term Relationship,No,High School,Artist,47,Monthly
+387,23,Female,5.876620998,"['Reading', 'Sports', 'Music', 'Travel']",Marriage,Yes,High School,Student,51,Weekly
+388,18,Male,4.907468266,"['Music', 'Hiking', 'Movies', 'Sports', 'Cooking', 'Reading']",Casual Dating,No,Master's Degree,Student,38,Monthly
+389,33,Male,5.955841565,"['Reading', 'Movies', 'Sports', 'Cooking', 'Music', 'Travel']",Casual Dating,Maybe,Master's Degree,Business Owner,10,Weekly
+390,23,Male,4.894704938,"['Reading', 'Hiking', 'Sports', 'Music', 'Cooking']",Marriage,No,Master's Degree,Student,59,Weekly
+391,27,Female,5.669972936,"['Music', 'Travel', 'Movies', 'Hiking', 'Cooking', 'Reading']",Friendship,No,Bachelor's Degree,Social Media Influencer,64,Daily
+392,33,Female,5.15579569,"['Travel', 'Sports', 'Hiking', 'Music']",Long-term Relationship,Yes,Master's Degree,Teacher,63,Monthly
+393,34,Male,5.52074262,"['Music', 'Hiking']",Long-term Relationship,Yes,Bachelor's Degree,Social Media Influencer,29,Daily
+394,19,Male,5.595356363,"['Sports', 'Reading', 'Music', 'Hiking', 'Travel']",Casual Dating,No,High School,Artist,8,Weekly
+395,31,Male,5.057955617,"['Reading', 'Travel', 'Cooking', 'Sports', 'Movies']",Marriage,No,High School,Doctor,31,Monthly
+396,24,Male,5.539935244,['Reading'],Marriage,Yes,Ph.D.,Social Media Influencer,45,Daily
+397,32,Female,5.436224655,"['Reading', 'Sports', 'Travel']",Casual Dating,Maybe,Master's Degree,Student,11,Weekly
+398,18,Male,5.147421881,"['Cooking', 'Reading', 'Sports', 'Movies', 'Hiking', 'Travel', 'Music']",Casual Dating,Yes,Master's Degree,Social Media Influencer,52,Daily
+399,28,Male,5.329771249,"['Music', 'Sports', 'Travel', 'Hiking', 'Reading', 'Movies']",Casual Dating,Maybe,Master's Degree,Doctor,68,Weekly
+400,24,Female,6.050624407,"['Travel', 'Hiking', 'Music']",Casual Dating,Maybe,High School,Social Media Influencer,48,Weekly
+401,29,Female,5.022331808,"['Movies', 'Reading', 'Music', 'Sports', 'Hiking']",Casual Dating,Yes,High School,Artist,38,Daily
+402,30,Female,5.968499704,"['Travel', 'Cooking', 'Reading', 'Movies']",Marriage,Maybe,Bachelor's Degree,Social Media Influencer,8,Weekly
+403,34,Male,5.002235402,['Music'],Casual Dating,Yes,Master's Degree,Student,23,Weekly
+404,30,Male,5.142763428,"['Hiking', 'Music', 'Reading', 'Travel']",Marriage,No,Bachelor's Degree,Engineer,76,Daily
+405,33,Female,6.084591009,['Cooking'],Marriage,No,Master's Degree,Social Media Influencer,47,Monthly
+406,29,Male,5.416503562,"['Reading', 'Cooking', 'Music', 'Sports', 'Hiking']",Casual Dating,Maybe,High School,Business Owner,89,Daily
+407,21,Male,5.113810399,['Travel'],Friendship,Yes,Bachelor's Degree,Entrepreneur,42,Monthly
+408,33,Male,5.225140384,"['Movies', 'Travel', 'Hiking']",Casual Dating,Yes,High School,Doctor,55,Daily
+409,27,Female,5.101953572,"['Movies', 'Reading', 'Sports', 'Cooking', 'Music', 'Hiking', 'Travel']",Casual Dating,Yes,Bachelor's Degree,Social Media Influencer,2,Weekly
+410,28,Male,5.173154487,"['Movies', 'Travel', 'Cooking']",Marriage,Maybe,Bachelor's Degree,Business Owner,25,Weekly
+411,33,Female,5.686838508,"['Music', 'Hiking', 'Movies', 'Reading']",Casual Dating,Yes,High School,Social Media Influencer,92,Daily
+412,35,Male,6.003969467,"['Movies', 'Cooking', 'Hiking', 'Music', 'Travel']",Casual Dating,No,Ph.D.,Social Media Influencer,41,Daily
+413,20,Female,4.900674867,"['Sports', 'Travel', 'Music', 'Cooking', 'Hiking', 'Movies']",Casual Dating,Maybe,Bachelor's Degree,Social Media Influencer,91,Weekly
+414,29,Male,4.988495709,"['Hiking', 'Sports']",Marriage,No,Bachelor's Degree,Teacher,12,Daily
+415,18,Male,4.892994276,"['Reading', 'Sports', 'Hiking', 'Travel']",Casual Dating,No,Bachelor's Degree,Doctor,31,Weekly
+416,25,Male,5.767008434,"['Travel', 'Reading', 'Sports', 'Movies']",Casual Dating,Maybe,Master's Degree,Business Owner,88,Daily
+417,18,Male,5.512904351,"['Hiking', 'Travel']",Casual Dating,Yes,High School,Social Media Influencer,67,Monthly
+418,20,Female,6.030401955,"['Reading', 'Cooking', 'Movies', 'Sports', 'Music', 'Hiking', 'Travel']",Casual Dating,Maybe,High School,Engineer,19,Weekly
+419,22,Female,5.390193189,['Music'],Marriage,No,Bachelor's Degree,Entrepreneur,51,Weekly
+420,31,Male,5.627201837,"['Music', 'Reading', 'Hiking', 'Cooking', 'Sports', 'Movies', 'Travel']",Marriage,No,Master's Degree,Artist,51,Monthly
+421,18,Female,5.74154266,"['Reading', 'Music', 'Travel', 'Cooking', 'Hiking', 'Sports', 'Movies']",Marriage,Maybe,Bachelor's Degree,Doctor,26,Monthly
+422,18,Male,4.90384099,"['Travel', 'Cooking', 'Reading', 'Hiking', 'Music']",Long-term Relationship,Maybe,Ph.D.,Business Owner,25,Weekly
+423,30,Male,5.86932211,"['Movies', 'Travel', 'Reading', 'Hiking', 'Sports', 'Music', 'Cooking']",Long-term Relationship,Maybe,Bachelor's Degree,Business Owner,70,Daily
+424,30,Male,4.877141148,"['Music', 'Cooking', 'Hiking']",Long-term Relationship,No,High School,Student,84,Monthly
+425,32,Male,5.021061324,"['Movies', 'Music', 'Cooking', 'Hiking', 'Travel']",Long-term Relationship,No,Bachelor's Degree,Social Media Influencer,7,Weekly
+426,23,Male,5.697425284,['Music'],Friendship,No,Master's Degree,Doctor,21,Weekly
+427,27,Female,5.963055356,"['Sports', 'Reading', 'Travel', 'Music', 'Movies']",Casual Dating,No,High School,Social Media Influencer,41,Weekly
+428,32,Female,5.844553653,"['Reading', 'Music', 'Sports', 'Movies', 'Travel']",Long-term Relationship,Yes,High School,Engineer,2,Daily
+429,21,Male,5.783840348,"['Sports', 'Music', 'Reading', 'Movies', 'Cooking', 'Hiking', 'Travel']",Long-term Relationship,No,Bachelor's Degree,Social Media Influencer,97,Weekly
+430,25,Male,4.897640422,"['Music', 'Travel', 'Cooking', 'Movies', 'Sports', 'Hiking', 'Reading']",Long-term Relationship,Yes,High School,Artist,82,Daily
+431,27,Male,5.57332296,"['Cooking', 'Music', 'Travel', 'Reading', 'Movies', 'Sports', 'Hiking']",Friendship,Yes,Bachelor's Degree,Teacher,25,Weekly
+432,24,Female,5.971231391,"['Movies', 'Cooking']",Marriage,Yes,High School,Artist,12,Monthly
+433,23,Male,5.224202654,"['Sports', 'Cooking', 'Reading', 'Travel']",Long-term Relationship,No,Bachelor's Degree,Artist,48,Monthly
+434,20,Female,5.336642022,"['Movies', 'Sports', 'Music', 'Hiking', 'Cooking']",Long-term Relationship,No,Bachelor's Degree,Doctor,21,Weekly
+435,25,Male,6.063259013,"['Sports', 'Travel', 'Hiking', 'Cooking']",Marriage,No,High School,Entrepreneur,55,Daily
+436,35,Female,5.371329962,"['Cooking', 'Travel', 'Hiking']",Long-term Relationship,No,High School,Artist,40,Daily
+437,30,Female,5.529612883,"['Sports', 'Hiking', 'Movies', 'Music', 'Travel', 'Cooking']",Casual Dating,No,Bachelor's Degree,Doctor,34,Daily
+438,27,Male,5.870307747,"['Music', 'Movies', 'Sports', 'Cooking']",Casual Dating,Yes,Ph.D.,Artist,77,Monthly
+439,32,Male,5.568381485,"['Cooking', 'Travel', 'Music', 'Sports']",Friendship,No,High School,Student,6,Monthly
+440,31,Male,5.985359615,"['Movies', 'Travel', 'Hiking', 'Reading', 'Cooking', 'Music']",Long-term Relationship,Yes,Bachelor's Degree,Business Owner,30,Weekly
+441,35,Male,5.854807067,"['Reading', 'Cooking', 'Movies', 'Travel', 'Hiking', 'Music']",Long-term Relationship,Yes,High School,Business Owner,56,Daily
+442,27,Female,5.829784745,"['Music', 'Sports', 'Hiking', 'Movies', 'Travel', 'Cooking']",Long-term Relationship,No,Ph.D.,Teacher,65,Daily
+443,24,Female,5.601257243,"['Sports', 'Travel', 'Hiking', 'Cooking']",Marriage,Maybe,Master's Degree,Artist,37,Monthly
+444,35,Male,5.825348581,"['Movies', 'Cooking']",Long-term Relationship,No,High School,Social Media Influencer,44,Monthly
+445,24,Female,5.87160663,['Sports'],Marriage,No,Master's Degree,Business Owner,89,Daily
+446,27,Male,6.008427747,"['Movies', 'Travel', 'Music', 'Hiking']",Marriage,Yes,High School,Artist,54,Monthly
+447,35,Female,4.956751259,['Travel'],Casual Dating,Yes,Bachelor's Degree,Social Media Influencer,89,Daily
+448,33,Male,5.104414355,"['Music', 'Sports', 'Movies', 'Cooking', 'Reading']",Friendship,No,Bachelor's Degree,Social Media Influencer,38,Daily
+449,33,Female,5.738179237,"['Travel', 'Cooking', 'Movies', 'Sports']",Friendship,Maybe,Bachelor's Degree,Entrepreneur,98,Daily
+450,23,Male,5.8628965,"['Cooking', 'Sports', 'Music', 'Travel']",Long-term Relationship,Yes,Ph.D.,Engineer,81,Daily
+451,19,Female,4.858694355,"['Reading', 'Music', 'Cooking', 'Hiking', 'Travel', 'Sports', 'Movies']",Friendship,Maybe,Ph.D.,Artist,79,Weekly
+452,18,Female,5.076509497,"['Travel', 'Reading', 'Sports', 'Movies']",Casual Dating,Maybe,Master's Degree,Entrepreneur,39,Weekly
+453,18,Female,4.968954596,"['Sports', 'Movies', 'Reading']",Casual Dating,No,Bachelor's Degree,Engineer,3,Monthly
+454,29,Male,4.879531,['Music'],Marriage,No,Bachelor's Degree,Business Owner,56,Daily
+455,28,Female,5.432579804,['Sports'],Casual Dating,Maybe,High School,Artist,39,Monthly
+456,29,Male,5.642158652,"['Cooking', 'Hiking', 'Sports', 'Travel', 'Music', 'Movies', 'Reading']",Marriage,Maybe,Ph.D.,Student,69,Monthly
+457,23,Female,5.878152373,"['Sports', 'Cooking']",Long-term Relationship,Yes,Ph.D.,Doctor,0,Daily
+458,20,Female,5.821051768,"['Reading', 'Music', 'Movies', 'Hiking', 'Cooking']",Long-term Relationship,Yes,High School,Engineer,36,Daily
+459,23,Female,5.424539268,"['Cooking', 'Hiking', 'Travel', 'Sports', 'Movies', 'Reading']",Marriage,Maybe,Bachelor's Degree,Entrepreneur,52,Weekly
+460,19,Male,5.732838835,"['Hiking', 'Sports', 'Reading', 'Travel', 'Music', 'Movies']",Long-term Relationship,No,Master's Degree,Engineer,16,Monthly
+461,24,Male,5.546477303,"['Travel', 'Cooking', 'Sports', 'Hiking', 'Music', 'Reading', 'Movies']",Long-term Relationship,No,Ph.D.,Artist,82,Daily
+462,34,Male,5.9569467,"['Travel', 'Reading', 'Movies', 'Music', 'Sports', 'Cooking']",Marriage,Yes,Ph.D.,Entrepreneur,7,Daily
+463,33,Female,5.234862314,"['Hiking', 'Music', 'Cooking', 'Travel', 'Movies', 'Sports']",Long-term Relationship,Maybe,High School,Entrepreneur,89,Monthly
+464,29,Female,5.15073182,"['Sports', 'Reading', 'Travel', 'Cooking', 'Movies', 'Music', 'Hiking']",Friendship,Maybe,High School,Engineer,44,Monthly
+465,19,Male,5.858339495,"['Travel', 'Reading', 'Movies', 'Sports', 'Music']",Friendship,Yes,High School,Artist,11,Weekly
+466,21,Male,5.971714432,"['Hiking', 'Movies', 'Travel', 'Cooking', 'Sports']",Casual Dating,Maybe,Bachelor's Degree,Artist,55,Weekly
+467,35,Female,4.941351113,"['Sports', 'Reading', 'Movies', 'Travel', 'Hiking']",Friendship,Maybe,Master's Degree,Doctor,70,Monthly
+468,26,Female,5.65438603,"['Reading', 'Sports', 'Hiking', 'Movies', 'Travel', 'Cooking', 'Music']",Casual Dating,No,Ph.D.,Teacher,79,Monthly
+469,34,Male,5.714071886,"['Hiking', 'Movies', 'Music']",Long-term Relationship,Yes,Ph.D.,Engineer,1,Monthly
+470,35,Female,5.322984522,"['Travel', 'Hiking', 'Sports', 'Movies', 'Music', 'Reading']",Casual Dating,Maybe,High School,Engineer,30,Weekly
+471,21,Male,5.46615596,"['Sports', 'Cooking', 'Reading', 'Travel', 'Music']",Long-term Relationship,Yes,Master's Degree,Business Owner,15,Monthly
+472,33,Male,5.222649845,"['Sports', 'Travel', 'Reading']",Casual Dating,No,Master's Degree,Business Owner,1,Daily
+473,29,Female,4.874899929,"['Music', 'Reading']",Friendship,Yes,Master's Degree,Engineer,37,Weekly
+474,20,Female,4.911462818,"['Movies', 'Cooking', 'Music', 'Hiking', 'Reading']",Long-term Relationship,No,High School,Engineer,12,Weekly
+475,29,Female,5.840746478,['Sports'],Long-term Relationship,Maybe,Bachelor's Degree,Artist,60,Weekly
+476,28,Female,5.294918782,"['Sports', 'Music', 'Movies', 'Reading']",Marriage,Maybe,High School,Doctor,90,Weekly
+477,18,Female,5.822459193,"['Music', 'Travel']",Friendship,Maybe,Ph.D.,Doctor,77,Weekly
+478,29,Female,5.414860111,"['Hiking', 'Sports', 'Travel', 'Music', 'Reading', 'Cooking', 'Movies']",Long-term Relationship,Yes,Master's Degree,Engineer,14,Weekly
+479,19,Female,5.238033243,"['Travel', 'Hiking', 'Music', 'Cooking', 'Sports', 'Reading', 'Movies']",Casual Dating,No,Master's Degree,Business Owner,56,Monthly
+480,35,Female,5.056984588,"['Sports', 'Music', 'Hiking', 'Movies', 'Reading', 'Cooking']",Long-term Relationship,No,Bachelor's Degree,Social Media Influencer,11,Monthly
+481,29,Male,5.365452178,"['Cooking', 'Sports', 'Hiking']",Casual Dating,Maybe,Master's Degree,Social Media Influencer,63,Daily
+482,20,Female,5.000708087,['Sports'],Friendship,Yes,High School,Doctor,27,Monthly
+483,28,Female,6.008930287,"['Music', 'Movies', 'Hiking', 'Travel']",Casual Dating,No,Master's Degree,Teacher,3,Daily
+484,28,Male,5.333743555,"['Cooking', 'Travel', 'Music', 'Movies', 'Reading', 'Sports']",Marriage,Maybe,Bachelor's Degree,Entrepreneur,45,Daily
+485,25,Male,4.878404805,"['Cooking', 'Movies', 'Reading', 'Sports', 'Hiking', 'Travel']",Marriage,No,Ph.D.,Entrepreneur,75,Monthly
+486,32,Female,5.944959937,"['Movies', 'Music', 'Travel']",Casual Dating,No,Ph.D.,Business Owner,35,Monthly
+487,24,Female,4.856959564,"['Music', 'Reading']",Friendship,Yes,Bachelor's Degree,Artist,94,Weekly
+488,35,Male,5.69397976,"['Music', 'Sports', 'Travel', 'Reading', 'Movies', 'Hiking', 'Cooking']",Casual Dating,Yes,High School,Social Media Influencer,98,Weekly
+489,33,Male,5.554938816,"['Travel', 'Hiking', 'Reading', 'Sports', 'Music', 'Movies', 'Cooking']",Casual Dating,Maybe,Bachelor's Degree,Doctor,30,Weekly
+490,30,Female,5.250454332,"['Sports', 'Music', 'Travel']",Friendship,Yes,Bachelor's Degree,Teacher,56,Weekly
+491,32,Female,5.660660755,"['Reading', 'Travel', 'Movies', 'Sports', 'Music', 'Cooking', 'Hiking']",Casual Dating,Maybe,Master's Degree,Social Media Influencer,47,Daily
+492,33,Female,5.920030516,['Reading'],Long-term Relationship,No,High School,Engineer,89,Monthly
+493,34,Male,5.448385545,['Cooking'],Marriage,Maybe,Ph.D.,Student,3,Daily
+494,18,Male,5.83595952,"['Cooking', 'Reading', 'Hiking', 'Sports', 'Travel', 'Movies']",Marriage,Maybe,Master's Degree,Business Owner,96,Daily
+495,34,Male,5.073670132,"['Hiking', 'Cooking']",Long-term Relationship,Maybe,Bachelor's Degree,Social Media Influencer,12,Daily
+496,27,Male,5.316685232,"['Hiking', 'Sports', 'Travel']",Marriage,No,Bachelor's Degree,Entrepreneur,92,Daily
+497,30,Female,5.070365365,"['Hiking', 'Reading', 'Travel', 'Sports', 'Music', 'Cooking', 'Movies']",Marriage,No,High School,Social Media Influencer,65,Daily
+498,33,Male,4.871726576,"['Music', 'Reading', 'Movies', 'Cooking', 'Sports', 'Hiking', 'Travel']",Marriage,No,Bachelor's Degree,Engineer,93,Daily
+499,32,Male,5.647436261,"['Hiking', 'Reading', 'Movies', 'Sports']",Marriage,Maybe,High School,Business Owner,71,Monthly
+500,24,Male,5.651540592,"['Music', 'Travel', 'Cooking', 'Sports', 'Hiking', 'Reading']",Friendship,Maybe,Ph.D.,Doctor,77,Monthly
